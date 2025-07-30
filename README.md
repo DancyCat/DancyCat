@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenhienng)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Designation](https://github-profile-trophy.vercel.app/?username=NguyenHienNg&theme=onestar)]
+![GitHub Designation](https://github-profile-trophy.vercel.app/?username=NguyenHienNg&theme=onestar)
