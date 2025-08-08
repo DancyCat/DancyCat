@@ -8,6 +8,6 @@ Hello everyone, my nickname is **DancyCat** (You can also call it "**SunsetMeow*
 
 Skills: I have nothing to brag about :(
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenhienng)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dancycat)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Designation](https://github-profile-trophy.vercel.app/?username=NguyenHienNg&theme=onestar)
+![GitHub Designation](https://github-profile-trophy.vercel.app/?username=DancyCat&theme=onestar)
