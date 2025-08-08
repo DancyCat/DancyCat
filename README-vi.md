@@ -8,6 +8,6 @@ Xin chào mọi người, biệt danh của tôi là **DancyCat** (Bạn cũng c
 
 Skill: Tôi chẳng có gì để khoe cả (⁠╥⁠﹏⁠╥⁠).
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenhienng)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dancycat)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Designation](https://github-profile-trophy.vercel.app/?username=NguyenHienNg&theme=onestar)
+![GitHub Designation](https://github-profile-trophy.vercel.app/?username=DancyCat&theme=onestar)
