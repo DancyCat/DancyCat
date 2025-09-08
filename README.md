@@ -4,7 +4,7 @@
 A guy who knows nothing about these things, but still wants to do it :)
 
 Hello everyone, my nickname is **DancyCat**
-> Previously, my old nickname is NguyenHienNg but later it was changed to DancyCat.
+> Previously, my old nickname is **NguyenHienNg** and **SunsetMeow** but later it was changed to DancyCat.
 
 Skills: I have nothing to brag about :(
 
