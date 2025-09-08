@@ -3,8 +3,8 @@
 
 Một thằng chả biết gì về những thứ này, nhưng vẫn muốn làm điều đó :)
 
-Xin chào mọi người, biệt danh của tôi là **DancyCat** (Bạn cũng có thể gọi là "**SunsetMeow**" nhưng mặc dù tôi khá ít dùng từ đấy.
-> Trước đây, biệt danh cũ của tôi là **NguyenHienNg** nhưng sau này nó đã được sửa thành là **DancyCat**
+Xin chào mọi người, biệt danh của tôi là **DancyCat**
+> Trước đây, biệt danh cũ của tôi là **NguyenHienNg** và **SunsetMeow** nhưng sau này nó đã được sửa thành là **DancyCat**
 
 Skill: Tôi chẳng có gì để khoe cả (⁠╥⁠﹏⁠╥⁠).
 
